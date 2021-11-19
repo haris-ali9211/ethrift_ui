@@ -450,17 +450,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 background-attachment: fixed;
 }
 
-.container{
+.containerlog {
     width: 300px !important;
     margin: 0 auto;
    margin-top: 150px ;
 }
 
-#header .logo .fa-weibo{
-font-size: 65px;
-color: white;
-margin-left: 125px;
-}
 #header h1{
     font-size: 40px;
     color: white;
