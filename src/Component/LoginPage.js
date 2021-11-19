@@ -10,7 +10,7 @@ const LoginPage = () => {
         <Container fluid className="login ">
             <Row>
                 <Col>
-                    <div className="container login">
+                    <div className="containerlog login">
                         <div id="header">
                             <h1>Welcome to.</h1>
                             <h1 className="thrift"><ShoppingCartIcon style={{ fontSize: 30, marginBottom: 3}}>logo</ShoppingCartIcon>E-THRIFT</h1>
